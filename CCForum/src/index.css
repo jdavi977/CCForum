@@ -1,0 +1,29 @@
+img {
+    border-radius: 50px;
+    width: 50px;
+    height: 50px;
+    float: left;
+    margin-right: 10px;
+  }
+  
+  h1 {
+    display: inline-block;
+    vertical-align: middle;
+    line-height: 50px;
+    margin: 0;
+  }
+  
+  p {
+    margin-left: 70px;
+  }
+
+  body {
+    display: flex;
+    justify-content: center; /* Centers content horizontally */
+    align-items: flex-start; /* Aligns content at the top */
+    min-height: 100vh;
+    margin: 0;
+    padding-top: 20px; /* Optional: Adds some space at the top */
+  }
+
+  
